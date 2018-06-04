@@ -29,11 +29,6 @@ The list of resources:
 1. iron
 1. silver
 1. gold
-1. topaz
-1. emerald
-1. amethyst
-1. sapphire
-1. ruby
 1. diamond
 
 Food is the least valuable resource and diamond is the most valuable. Resources are needed to buy new buildings and for trade agreements.
@@ -53,11 +48,6 @@ The list of buildings:
 1. iron mine
 1. silver mine
 1. gold mine
-1. topaz mine
-1. emerald mine
-1. amethyst mine
-1. sapphire mine
-1. ruby mine
 1. diamond mine
 
 Buildings that produce more valuable resources are made of less valuable resources.

@@ -181,21 +181,34 @@
         </struct>
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
-            <key type="filename">amethyst mine.png</key>
+            <key type="filename">button sell all.png</key>
+            <key type="filename">button sell one.png</key>
+            <key type="filename">button upgrade extraction.png</key>
+            <key type="filename">button upgrade production.png</key>
+            <key type="filename">button upgrade storage.png</key>
+            <key type="filename">button upgrade trader.png</key>
+            <struct type="IndividualSpriteSettings">
+                <key>pivotPoint</key>
+                <point_f>0.5,0.5</point_f>
+                <key>scale9Enabled</key>
+                <false/>
+                <key>scale9Borders</key>
+                <rect>12,12,24,24</rect>
+                <key>scale9Paddings</key>
+                <rect>12,12,24,24</rect>
+                <key>scale9FromFile</key>
+                <false/>
+            </struct>
             <key type="filename">castle.png</key>
             <key type="filename">clay pit.png</key>
             <key type="filename">coal mine.png</key>
             <key type="filename">diamond mine.png</key>
-            <key type="filename">emerald mine.png</key>
             <key type="filename">farm.png</key>
             <key type="filename">gold mine.png</key>
             <key type="filename">iron mine.png</key>
             <key type="filename">quarry.png</key>
-            <key type="filename">ruby mine.png</key>
-            <key type="filename">sapphire mine.png</key>
             <key type="filename">silver mine.png</key>
             <key type="filename">tailor.png</key>
-            <key type="filename">topaz mine.png</key>
             <key type="filename">woodcutter.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
@@ -209,22 +222,17 @@
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
-            <key type="filename">amethyst.png</key>
-            <key type="filename">clay.png</key>
-            <key type="filename">cloth.png</key>
-            <key type="filename">coal.png</key>
-            <key type="filename">coin.png</key>
-            <key type="filename">diamond.png</key>
-            <key type="filename">emerald.png</key>
-            <key type="filename">food.png</key>
-            <key type="filename">gold.png</key>
-            <key type="filename">iron.png</key>
-            <key type="filename">lumber.png</key>
-            <key type="filename">ruby.png</key>
-            <key type="filename">sapphire.png</key>
-            <key type="filename">silver.png</key>
-            <key type="filename">stone.png</key>
-            <key type="filename">topaz.png</key>
+            <key type="filename">icon clay.png</key>
+            <key type="filename">icon cloth.png</key>
+            <key type="filename">icon coal.png</key>
+            <key type="filename">icon coin.png</key>
+            <key type="filename">icon diamond.png</key>
+            <key type="filename">icon food.png</key>
+            <key type="filename">icon gold.png</key>
+            <key type="filename">icon iron.png</key>
+            <key type="filename">icon lumber.png</key>
+            <key type="filename">icon silver.png</key>
+            <key type="filename">icon stone.png</key>
             <struct type="IndividualSpriteSettings">
                 <key>pivotPoint</key>
                 <point_f>0.5,0.5</point_f>
@@ -234,64 +242,40 @@
                 <rect>8,8,16,16</rect>
                 <key>scale9Paddings</key>
                 <rect>8,8,16,16</rect>
-                <key>scale9FromFile</key>
-                <false/>
-            </struct>
-            <key type="filename">building production speed.png</key>
-            <key type="filename">castle resource types.png</key>
-            <key type="filename">castle storage space.png</key>
-            <key type="filename">trader movement speed.png</key>
-            <struct type="IndividualSpriteSettings">
-                <key>pivotPoint</key>
-                <point_f>0.5,0.5</point_f>
-                <key>scale9Enabled</key>
-                <false/>
-                <key>scale9Borders</key>
-                <rect>24,24,48,48</rect>
-                <key>scale9Paddings</key>
-                <rect>24,24,48,48</rect>
                 <key>scale9FromFile</key>
                 <false/>
             </struct>
         </map>
         <key>fileList</key>
         <array>
-            <filename>amethyst.png</filename>
-            <filename>building production speed.png</filename>
             <filename>castle.png</filename>
-            <filename>castle resource types.png</filename>
-            <filename>castle storage space.png</filename>
-            <filename>clay.png</filename>
             <filename>clay pit.png</filename>
-            <filename>cloth.png</filename>
-            <filename>coal.png</filename>
-            <filename>coin.png</filename>
-            <filename>diamond.png</filename>
-            <filename>emerald.png</filename>
             <filename>farm.png</filename>
-            <filename>food.png</filename>
-            <filename>gold.png</filename>
-            <filename>iron.png</filename>
-            <filename>lumber.png</filename>
             <filename>quarry.png</filename>
-            <filename>ruby.png</filename>
-            <filename>sapphire.png</filename>
-            <filename>silver.png</filename>
-            <filename>stone.png</filename>
             <filename>tailor.png</filename>
-            <filename>topaz.png</filename>
-            <filename>trader movement speed.png</filename>
             <filename>woodcutter.png</filename>
-            <filename>amethyst mine.png</filename>
             <filename>coal mine.png</filename>
             <filename>diamond mine.png</filename>
-            <filename>emerald mine.png</filename>
             <filename>gold mine.png</filename>
             <filename>iron mine.png</filename>
-            <filename>ruby mine.png</filename>
-            <filename>sapphire mine.png</filename>
+            <filename>icon clay.png</filename>
+            <filename>icon cloth.png</filename>
+            <filename>icon coal.png</filename>
+            <filename>icon coin.png</filename>
+            <filename>icon diamond.png</filename>
+            <filename>icon food.png</filename>
+            <filename>icon gold.png</filename>
+            <filename>icon iron.png</filename>
+            <filename>icon lumber.png</filename>
+            <filename>icon silver.png</filename>
+            <filename>icon stone.png</filename>
             <filename>silver mine.png</filename>
-            <filename>topaz mine.png</filename>
+            <filename>button sell all.png</filename>
+            <filename>button upgrade extraction.png</filename>
+            <filename>button upgrade production.png</filename>
+            <filename>button upgrade storage.png</filename>
+            <filename>button upgrade trader.png</filename>
+            <filename>button sell one.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>

@@ -4,7 +4,7 @@ var loadState = {
         /**
          * Set the background color.
          */
-        game.stage.backgroundColor = "#0084c8";
+        game.stage.backgroundColor = "#000";
 
         this.clock = game.add.text(0, 0, '⏳', {
             boundsAlignH: "center",
