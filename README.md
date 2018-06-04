@@ -20,21 +20,21 @@ Resources can be obtained by clicking on the Castle or by waiting for the buildi
 
 The list of resources:
 
-* food
-* cloth
-* lumber
-* clay
-* stone
-* coal
-* iron
-* silver
-* gold
-* topaz
-* emerald
-* amethyst
-* sapphire
-* ruby
-* diamond
+1. food
+1. cloth
+1. lumber
+1. clay
+1. stone
+1. coal
+1. iron
+1. silver
+1. gold
+1. topaz
+1. emerald
+1. amethyst
+1. sapphire
+1. ruby
+1. diamond
 
 Food is the least valuable resource and diamond is the most valuable. Resources are needed to buy new buildings and for trade agreements.
 
@@ -44,21 +44,21 @@ You can have buildings to produce each type of the resource. They are producing 
 
 The list of buildings:
 
-* farm
-* tailor
-* woodcutter
-* clay pit
-* quarry
-* coal mine
-* iron mine
-* silver mine
-* gold mine
-* topaz mine
-* emerald mine
-* amethyst mine
-* sapphire mine
-* ruby mine
-* diamond mine
+1. farm
+1. tailor
+1. woodcutter
+1. clay pit
+1. quarry
+1. coal mine
+1. iron mine
+1. silver mine
+1. gold mine
+1. topaz mine
+1. emerald mine
+1. amethyst mine
+1. sapphire mine
+1. ruby mine
+1. diamond mine
 
 Buildings that produce more valuable resources are made of less valuable resources.
 
@@ -68,9 +68,9 @@ You can buy upgrades with coins to improve different ascpects of your activity.
 
 The list of upgrades:
 
-* trader movement speed
-* castle resource types
-* castle storage space
-* building production speed
+1. trader movement speed
+1. castle resource types
+1. castle storage space
+1. building production speed
 
 You can upgrade the equipment of your traders to help them establish the trade routes faster, the tools of the castle to produce more and better resources when you click on the castle, the size of the castle to hold more resources, and the technology of your buildings to help them produce the resources faster.
