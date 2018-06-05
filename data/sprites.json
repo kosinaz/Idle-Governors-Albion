@@ -9,7 +9,7 @@
 	"sourceSize": {"w":48,"h":48}
 },
 {
-	"filename": "button sell one.png",
+	"filename": "button sell everything.png",
 	"frame": {"x":0,"y":48,"w":48,"h":48},
 	"rotated": false,
 	"trimmed": false,
@@ -17,7 +17,7 @@
 	"sourceSize": {"w":48,"h":48}
 },
 {
-	"filename": "button upgrade extraction.png",
+	"filename": "button sell one.png",
 	"frame": {"x":0,"y":96,"w":48,"h":48},
 	"rotated": false,
 	"trimmed": false,
@@ -25,7 +25,7 @@
 	"sourceSize": {"w":48,"h":48}
 },
 {
-	"filename": "button upgrade production.png",
+	"filename": "button upgrade extraction.png",
 	"frame": {"x":0,"y":144,"w":48,"h":48},
 	"rotated": false,
 	"trimmed": false,
@@ -33,7 +33,7 @@
 	"sourceSize": {"w":48,"h":48}
 },
 {
-	"filename": "button upgrade storage.png",
+	"filename": "button upgrade production.png",
 	"frame": {"x":0,"y":192,"w":48,"h":48},
 	"rotated": false,
 	"trimmed": false,
@@ -41,7 +41,7 @@
 	"sourceSize": {"w":48,"h":48}
 },
 {
-	"filename": "button upgrade trader.png",
+	"filename": "button upgrade storage.png",
 	"frame": {"x":0,"y":240,"w":48,"h":48},
 	"rotated": false,
 	"trimmed": false,
@@ -49,8 +49,16 @@
 	"sourceSize": {"w":48,"h":48}
 },
 {
+	"filename": "button upgrade trader.png",
+	"frame": {"x":0,"y":288,"w":48,"h":48},
+	"rotated": false,
+	"trimmed": false,
+	"spriteSourceSize": {"x":0,"y":0,"w":48,"h":48},
+	"sourceSize": {"w":48,"h":48}
+},
+{
 	"filename": "castle.png",
-	"frame": {"x":0,"y":288,"w":64,"h":64},
+	"frame": {"x":0,"y":336,"w":64,"h":64},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
@@ -58,7 +66,7 @@
 },
 {
 	"filename": "clay pit.png",
-	"frame": {"x":0,"y":352,"w":64,"h":64},
+	"frame": {"x":0,"y":400,"w":64,"h":64},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
@@ -66,7 +74,7 @@
 },
 {
 	"filename": "coal mine.png",
-	"frame": {"x":0,"y":416,"w":64,"h":64},
+	"frame": {"x":0,"y":464,"w":64,"h":64},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
@@ -74,7 +82,7 @@
 },
 {
 	"filename": "diamond mine.png",
-	"frame": {"x":0,"y":480,"w":64,"h":64},
+	"frame": {"x":0,"y":528,"w":64,"h":64},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
@@ -82,7 +90,7 @@
 },
 {
 	"filename": "farm.png",
-	"frame": {"x":0,"y":544,"w":64,"h":64},
+	"frame": {"x":0,"y":592,"w":64,"h":64},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
@@ -90,7 +98,7 @@
 },
 {
 	"filename": "gold mine.png",
-	"frame": {"x":0,"y":608,"w":64,"h":64},
+	"frame": {"x":0,"y":656,"w":64,"h":64},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
@@ -98,7 +106,7 @@
 },
 {
 	"filename": "icon clay.png",
-	"frame": {"x":0,"y":672,"w":32,"h":32},
+	"frame": {"x":0,"y":720,"w":32,"h":32},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
@@ -106,7 +114,7 @@
 },
 {
 	"filename": "icon cloth.png",
-	"frame": {"x":32,"y":672,"w":32,"h":32},
+	"frame": {"x":32,"y":720,"w":32,"h":32},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
@@ -114,7 +122,7 @@
 },
 {
 	"filename": "icon coal.png",
-	"frame": {"x":0,"y":704,"w":32,"h":32},
+	"frame": {"x":0,"y":752,"w":32,"h":32},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
@@ -122,7 +130,7 @@
 },
 {
 	"filename": "icon coin.png",
-	"frame": {"x":32,"y":704,"w":32,"h":32},
+	"frame": {"x":32,"y":752,"w":32,"h":32},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
@@ -130,7 +138,7 @@
 },
 {
 	"filename": "icon diamond.png",
-	"frame": {"x":0,"y":736,"w":32,"h":32},
+	"frame": {"x":0,"y":784,"w":32,"h":32},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
@@ -138,7 +146,7 @@
 },
 {
 	"filename": "icon food.png",
-	"frame": {"x":32,"y":736,"w":32,"h":32},
+	"frame": {"x":32,"y":784,"w":32,"h":32},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
@@ -146,7 +154,7 @@
 },
 {
 	"filename": "icon gold.png",
-	"frame": {"x":0,"y":768,"w":32,"h":32},
+	"frame": {"x":0,"y":816,"w":32,"h":32},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
@@ -154,7 +162,7 @@
 },
 {
 	"filename": "icon iron.png",
-	"frame": {"x":32,"y":768,"w":32,"h":32},
+	"frame": {"x":32,"y":816,"w":32,"h":32},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
@@ -162,7 +170,7 @@
 },
 {
 	"filename": "icon lumber.png",
-	"frame": {"x":0,"y":800,"w":32,"h":32},
+	"frame": {"x":0,"y":848,"w":32,"h":32},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
@@ -170,7 +178,7 @@
 },
 {
 	"filename": "icon silver.png",
-	"frame": {"x":32,"y":800,"w":32,"h":32},
+	"frame": {"x":32,"y":848,"w":32,"h":32},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
@@ -178,7 +186,7 @@
 },
 {
 	"filename": "icon stone.png",
-	"frame": {"x":0,"y":832,"w":32,"h":32},
+	"frame": {"x":0,"y":880,"w":32,"h":32},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":32,"h":32},
@@ -186,7 +194,7 @@
 },
 {
 	"filename": "iron mine.png",
-	"frame": {"x":0,"y":864,"w":64,"h":64},
+	"frame": {"x":0,"y":912,"w":64,"h":64},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
@@ -194,7 +202,7 @@
 },
 {
 	"filename": "quarry.png",
-	"frame": {"x":0,"y":928,"w":64,"h":64},
+	"frame": {"x":0,"y":976,"w":64,"h":64},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
@@ -202,7 +210,7 @@
 },
 {
 	"filename": "silver mine.png",
-	"frame": {"x":0,"y":992,"w":64,"h":64},
+	"frame": {"x":0,"y":1040,"w":64,"h":64},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
@@ -210,7 +218,7 @@
 },
 {
 	"filename": "tailor.png",
-	"frame": {"x":0,"y":1056,"w":64,"h":64},
+	"frame": {"x":0,"y":1104,"w":64,"h":64},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
@@ -218,7 +226,7 @@
 },
 {
 	"filename": "woodcutter.png",
-	"frame": {"x":0,"y":1120,"w":64,"h":64},
+	"frame": {"x":0,"y":1168,"w":64,"h":64},
 	"rotated": false,
 	"trimmed": false,
 	"spriteSourceSize": {"x":0,"y":0,"w":64,"h":64},
@@ -229,8 +237,8 @@
 	"version": "1.0",
 	"image": "sprites.png",
 	"format": "RGBA8888",
-	"size": {"w":64,"h":1184},
+	"size": {"w":64,"h":1232},
 	"scale": "1",
-	"smartupdate": "$TexturePacker:SmartUpdate:8575a6f5a6a67bef29aa26ea0e14bdb4:91ce9df992ce1aed900dfb372808e72f:1eabdf11f75e3a4fe3147baf7b5be24b$"
+	"smartupdate": "$TexturePacker:SmartUpdate:10086a37b595430fbbec27a81387b7d7:4cc6bd56e2b1dca9d02c8697785c8032:1eabdf11f75e3a4fe3147baf7b5be24b$"
 }
 }

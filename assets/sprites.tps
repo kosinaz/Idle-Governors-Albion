@@ -182,6 +182,7 @@
         <key>individualSpriteSettings</key>
         <map type="IndividualSpriteSettingsMap">
             <key type="filename">button sell all.png</key>
+            <key type="filename">button sell everything.png</key>
             <key type="filename">button sell one.png</key>
             <key type="filename">button upgrade extraction.png</key>
             <key type="filename">button upgrade production.png</key>
@@ -276,6 +277,7 @@
             <filename>button upgrade storage.png</filename>
             <filename>button upgrade trader.png</filename>
             <filename>button sell one.png</filename>
+            <filename>button sell everything.png</filename>
         </array>
         <key>ignoreFileList</key>
         <array/>
